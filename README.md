@@ -10,7 +10,7 @@ Teste Desenvolvedor Fullstack (PHP)
 
 Baixando o projeto.
 ```sh
-git clone : 
+git clone : https://github.com/RonaldoNascimentoSantos/PHP-FullStack
 ```
 
 Na raiz do projeto abra o terminal e execute o comando:
